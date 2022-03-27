@@ -4,16 +4,24 @@
 A Cryptocurrency Tracker which built with React JS, Material UI and Chart JS. You can sign in with your Google Account and send realtime track the Crypto. 
 
 
-### Images: 
+# Images: 
 
-### Video: 
+# Home page
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/78966839/160291138-cb09a914-535a-4003-ad14-e0370eff6bcd.png">
+
+# After login
+
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/78966839/160291196-3edae5fa-a548-406b-8685-335c61617d98.png">
+
+
+# Video: 
 
 Click demo to try it by yourself ! 
 
 ## Cryptocurrency Tracker Demo Link
 
 You can view the site here
-[Visit to see the deployed React App](https://crypto-hunter-92155.web.app/ "click to open")
+[Visit to  the deployed Cryptocurrency Tracker ](https://crypto-hunter-92155.web.app/ "click to open")
 
 ## Topics
 
@@ -33,5 +41,7 @@ Get-ExecutionPolicy -List
 Set-ExecutionPolicy Unrestricted
 Set-ExecutionPolicy Unrestricted -Force
  ```
- 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
+ 
 ## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=QA6oTpMZp84 "click to open")
+
+🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
