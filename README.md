@@ -34,4 +34,4 @@ Set-ExecutionPolicy Unrestricted
 Set-ExecutionPolicy Unrestricted -Force
  ```
  🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
-## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=QA6oTpMZp84&list=PLKhlp2qtUcSZ2dmL-6CqBX2dYzvs1vGuy"click to open")
+## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=QA6oTpMZp84 "click to open")
