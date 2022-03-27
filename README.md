@@ -22,4 +22,9 @@ You can view the site here
 - Responsive Design
 - Deploy the App LIVE on Firebase
 
-
+# If you get FireBase Login error do this 
+ ```
+Get-ExecutionPolicy -List
+Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy Unrestricted -Force
+ ```
