@@ -6,10 +6,10 @@ A Cryptocurrency Tracker which built with React JS, Material UI and Chart JS. Yo
 
 # Images: 
 
-# Home page
+## Home page
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/78966839/160291138-cb09a914-535a-4003-ad14-e0370eff6bcd.png">
 
-# After login
+## After login
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/78966839/160291196-3edae5fa-a548-406b-8685-335c61617d98.png">
 
@@ -45,6 +45,12 @@ Set-ExecutionPolicy Unrestricted
 Set-ExecutionPolicy Unrestricted -Force
  ```
  
+# How you Own this ;- 
+
+### Downloade these dependencies :-
+
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/78966839/160294008-731d44bb-9ece-432d-a710-b2bcf3f1b3b9.png">
+
 ## YouTub :- [I Learn from this ](https://www.youtube.com/watch?v=QA6oTpMZp84 "click to open")
 
 🙏 If you find this repo helpful then don't forget to give a star ❇️ to this repository. :)
