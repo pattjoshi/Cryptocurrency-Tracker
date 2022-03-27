@@ -23,7 +23,7 @@ Click demo to try it by yourself !
 You can view the site here
 [Visit to  the deployed Cryptocurrency Tracker ](https://crypto-hunter-92155.web.app/ "click to open")
 
-## Topics & Frachers
+# Topics & Frachers
 
 - React Context API -Redux
 - Material UI
