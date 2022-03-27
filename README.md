@@ -23,13 +23,15 @@ Click demo to try it by yourself !
 You can view the site here
 [Visit to  the deployed Cryptocurrency Tracker ](https://crypto-hunter-92155.web.app/ "click to open")
 
-## Topics
+## Topics & Frachers
 
 - React Context API -Redux
 - Material UI
 - React Hooks
 - chart js
 - Firebase's Firestore realtime Database
+- Show the chart like 24 hours , 30 Days ,3 Months, 1 year
+- If you Hover the Graph It's Shwing the real time Increase,Decrease thme . 
 - Firebase Google Authentication (Full Login)
 -code splitting react
 - Responsive Design
