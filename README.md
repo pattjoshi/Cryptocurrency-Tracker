@@ -19,6 +19,10 @@ A Cryptocurrency Tracker which built with React JS, Material UI and Chart JS. Yo
 
 # Video: 
 
+https://user-images.githubusercontent.com/78966839/160378362-c46431bc-a613-4781-a53a-3be0af2aa1fe.mp4
+
+
+
 Click demo to try it by yourself ! 
 
 ## Cryptocurrency Tracker Demo Link
